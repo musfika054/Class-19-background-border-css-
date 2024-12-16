@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    
+
+    /* background-color: darkturquoise; */
+    /* background: red; */
+
+    /* background-image: url(../SRC/download.jpeg); */
+    /* background: url(../SRC/download.jpeg); */
+
+
+
+
+
+    /* background-repeat: repeat; */
+    /* background-repeat: no-repeat; */
+
+   
+
+
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: round; */
+    /* background-repeat: space; */
+
+
+
+    /* background-size: 100%; */
+    /* background-size: 500px; */
+    /* background-size: auto; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+
+
+
+    /* background-position: bottom; */
+    /* background-position: center center; */
+    /* background-position: center left; */
+
+
+
+     /* height: 100vh; */
+    /* background-image: linear-gradient(to left, purple, blue, green); */
+    /* background: linear-gradient(to left, purple, blue, green); */
+    /* background-image: linear-gradient(to right, purple, blue, green); */
+    /* background-image: linear-gradient(45deg, purple, blue, green); */
+    /* background: linear-gradient(45deg, purple, blue, green); */
+   
+/* 
+    background-image: radial-gradient(purple, blue); */
+    /* background: radial-gradient(purple, blue); */
+    
+
+    /* background-image: conic-gradient(red, green); */
+    /* background: conic-gradient(red, green); */
+
+}
+
+
+
+#Toha{
+
+    margin: 20px 20px;
+   
+
+    height: 100px;
+    width: 500px;
+
+    background-color: mediumvioletred;
+
+    background-image: url(../SRC/download.jpeg);
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+
+    border: 5px solid;
+
+    border-radius: 20px;
+}
+
+
+
